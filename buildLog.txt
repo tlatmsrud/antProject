@@ -1,0 +1,12 @@
+
+build:
+
+BUILD FAILED
+C:\Users\mcnc\antProject\antProject\build.xml:60: Problem: failed to create task or type wsgen
+Cause: The name is undefined.
+Action: Check the spelling.
+Action: Check that any custom tasks/types have been declared.
+Action: Check that any <presetdef>/<macrodef> declarations have taken place.
+
+
+Total time: 0 seconds
